@@ -1,5 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
+# Prerequisites
+# 1) Have python3 installed
+
+# Setup
 # 1) Create a git repository anywhere (like your home directory and init and connect to remote repo.
 # 2) Add this file to the git repository.
 # 3) Change the global variables below to match your configuration.
